@@ -5,3 +5,7 @@
 2. has to work well with postgres and mysql (at least) AND cache to Redis
 3. has to run wasm3 or a wasm interpreter with gas metering
 4. handle JSON very fast
+
+## Options
+
+* https://drogon.docsforge.com/ with https://github.com/wasm3/wasm3
